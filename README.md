@@ -14,7 +14,7 @@ Description of the Variables:
 1.	Manufacturer - Car Manufacturer Name
 2.	Model - Car Model Name
 3.	Sales_in_thousands - Car Sales in Thousands
-4.	    year_resale_value - Resale value after 4 years
+4.	year_resale_value - Resale value after 4 years
 5.	Vehicle_type - Type of car
 6.	Price_in_thousands - Price of the car
 7.	Engine_size - Car Engine Size
